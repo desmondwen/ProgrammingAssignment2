@@ -3,6 +3,8 @@
 ## Write a short comment describing this function
 
 ## This function is for cache potentially time-consuming computations. 
+## makeCacheMatrix is for initialize inverse property
+
 
 makeCacheMatrix <- function( x = matrix() ) {
 
